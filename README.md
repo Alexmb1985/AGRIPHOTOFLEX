@@ -10,7 +10,7 @@ Este repositorio est\u00e1 dise\u00f1ado para colaborar en la creaci\u00f3n de s
 ## Requisitos
 Para utilizar los scripts de este repositorio, aseg\u00farate de tener instaladas las dependencias indicadas en el archivo `requirements.txt`.
 
-## Instalaci\u00f3n
+## Instalacón
 Clona este repositorio e instala las dependencias:
 ```bash
 git clone https://github.com/Alexmb1985/AGRIPHOTOFLEX.git
@@ -18,4 +18,4 @@ cd AGRIPHOTOFLEX
 pip install -r requirements.txt
 ```
 
-\u00a1Bienvenido y gracias por contribuir al proyecto!
+Bienvenido y gracias por contribuir al proyecto!
